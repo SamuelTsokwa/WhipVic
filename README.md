@@ -1,7 +1,7 @@
 # WhipVic
 A car share application built using the python framework, Django
 
-#Instructions:
+# Instructions:
 cd car_share 
 
 type python3 manage.py makemigrations
